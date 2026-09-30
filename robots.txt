@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block access to sensitive or non-public files
+Disallow: /README.md
+Disallow: /.gitkeep
+
+# Sitemap location
+Sitemap: https://kiranaamir.com/sitemap.xml
